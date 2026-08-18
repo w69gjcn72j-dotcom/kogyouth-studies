@@ -1,0 +1,30 @@
+{
+  "repo": "kogyouth-studies",
+  "prefix": "ky",
+  "base_font": "18px",
+  "url": "https://w69gjcn72j-dotcom.github.io/kogyouth-studies/",
+  "en": {
+    "title": "KOGYouth Growth Groups",
+    "short": "KOGYouth",
+    "appname": "KOGYouth",
+    "unit": "study",
+    "units": "studies",
+    "grouplabel": "Term",
+    "tagline": "Bible studies for our high-school growth groups — passage, discussion and prayer, term by term.",
+    "description": "KOGYouth growth group Bible studies for high-school students at St Paul's Anglican Church Kogarah.",
+    "manifest": "kogyouth.webmanifest",
+    "index": "index.html"
+  },
+  "cn": {
+    "title": "青少年成长小组查经",
+    "short": "青少年查经",
+    "appname": "青少年查经",
+    "unit": "查经",
+    "units": "查经",
+    "grouplabel": "学期",
+    "tagline": "为中学生成长小组预备的查经——读经、讨论、祷告，按学期编排。",
+    "description": "高嘉华圣保罗圣公会青少年成长小组查经材料。",
+    "manifest": "kogyouth-cn.webmanifest",
+    "index": "index-cn.html"
+  }
+}

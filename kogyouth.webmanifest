@@ -1,0 +1,32 @@
+{
+  "name": "KOGYouth Growth Groups — St Paul's Anglican Kogarah",
+  "short_name": "KOGYouth",
+  "description": "KOGYouth growth group Bible studies for high-school students at St Paul's Anglican Church Kogarah.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1a2b",
+  "theme_color": "#0e1a2b",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "ky-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ky-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ky-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

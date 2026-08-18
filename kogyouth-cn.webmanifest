@@ -1,0 +1,32 @@
+{
+  "name": "青少年成长小组查经 — 高嘉华圣保罗圣公会",
+  "short_name": "青少年查经",
+  "description": "高嘉华圣保罗圣公会青少年成长小组查经材料。",
+  "start_url": "./index-cn.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1a2b",
+  "theme_color": "#0e1a2b",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "ky-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ky-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ky-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
