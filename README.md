@@ -1,3 +1,5 @@
+> **Moved.** These studies now live on Word & Prayer, at https://word.kogarah.church/studies/youth/ (中文: https://word.kogarah.church/bible-studies-cn.html?c=ky). Every page here only forwards to its new address. New studies are published from the `sermon-library` repository (`add-study.py --rebuild`), not from this one.
+
 # KOGYouth Growth Groups · 青少年成长小组查经
 
 Bible studies for our high-school growth groups — passage, discussion and prayer, term by term.
